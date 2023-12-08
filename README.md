@@ -1,2 +1,3 @@
 # codesync
-Took up a resolution to Leetcode everyday and do CP's, So here's to my future
+Took up a resolution to Leetcode everyday, do CP's and Revise DSA, So here's to my future
+Languages used: C++
