@@ -44,6 +44,8 @@ void example_pairs(){
 //We use vectors because arrays are immutable and also constant in size
 void example_vectors(){
 
+    //Vector acts as singly-linked list internally
+
     vector <int> v; // Creates an empty container
 
     v.push_back(1); // Pushes 1 into the container
@@ -115,7 +117,106 @@ void example_vectors(){
         cout<<it<<"";
     }
 
-    //deletion in a vector
+    //deletion in a vector -> erase()
+    //delete at the location
+    v.erase(v.begin()+1);
+
+    //erase between (start, end after the element)
+    v.erase(v.begin()+2, v.begin()+4);
+
+
+    //Insert function
+    vector<int>v(2,100); //{100, 100}
+    //Insert at a particular location
+    v.insert(v.begin(),300); // {300,100,100}
+    //Insert multiple elements -> use like vector initiation
+    v.insert(v.begin()+1,2,10); // {300,10,10,100,100}
+
+    //Insert one vector into another
+    vector<int>w(2,50); //{50,50}
+    v.insert(v.begin(), w.begin(), w.end());
+
+    //get the vector size
+    cout<<v.size();
+
+    //pops out the last element
+    v.pop_back();
+
+    //v1 -> {10,20}
+    //v2 -> {30,40}
+    // v1.swap(v2); //Now v1 -> {30,40} and v2 -> {10,20}
+
+    //Erase the entire vector
+    v.clear();
+
+    //Does the vector has minimum of 1 element (v empty or not)
+    cout<<v.empty();
+
+}
+
+
+void example_list(){
+
+    //List acts as doubly-linked list internally
+
+    list<int> ls;
     
+    ls.push_back(2); //{2}
+
+    ls.emplace_back(4); // {2,4}
+
+    //Push from front
+    ls.push_front(5); // {5,2,4}
+
+    ls.emplace_front(3); //{3,5,2,4}
+
+    //rest all functions same as vector
+    // begin, end, rbegin, rend, clear, insert, size, swap
+
+
+}
+
+
+void example_deque(){
+    deque<int> dq;
+    
+    dq.push_back(1); //{1}
+
+    dq.emplace_back(2); // {1,2}
+
+    //Push from front
+    dq.push_front(4); // {4,1,2}
+
+    dq.emplace_front(3); //{3,4,1,2}
+
+    dq.pop_back(); //{3,4,1}
+    dq.pop_front(); // {4,1}
+
+    dq.back();
+
+    dq.front();
+
+        //rest all functions same as vector
+    // begin, end, rbegin, rend, clear, insert, size, swap
+}
+
+void example_stack(){
+    stack<int>st; //LIFO
+    st.push(1); // {1}
+    st.push(2); // {2,1}
+    st.push(3); // {3,2,1}
+    st.push(3); // {3,3,2,1}
+    st.emplace(5); // {5,3,3,2,1}
+
+    cout<<st.top(); //prints 5, also **st[2] is invalid **, cant access like vectors
+
+    st.pop();
+
+    cout<<st.top();
+    cout<<st.size();
+    cout<<st.empty();
+
+    stack<int> st1,st2;
+    st1.swap(st2);
 
 }
