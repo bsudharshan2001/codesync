@@ -244,22 +244,28 @@ void example_queue(){
 
 
 void example_priorityQueue(){
+    // Lexicographic largest string or largest integer at top
+    // A tree data structure is maintained
+    //Max heap
     priority_queue<int> pq;
 
+    //Push - O(logn)
     pq.push(5); // {5}
     pq.push(2); // {5,2}
     pq.push(8); // {8,5,2}
     pq.emplace(10); // {10,8,5,2}
 
+    //Top - O(1)
     cout<<pq.top(); // 10
-    
+
+    //Pop - O(logn)
     pq.pop(); // {8,5,2}
 
     cout<<pq.top(); //8
 
     //size swap empty function same as others
 
-    //Minimum heap
+    //Minimum heap - If you want minimum element at the top (minimum priority queue)
     priority_queue<int, vector<int>, greater<int>> pq1;
     pq1.push(5); // {5}
     pq1.push(2); // {2,5}
@@ -267,5 +273,34 @@ void example_priorityQueue(){
     pq1.emplace(10); // {2,5,8,10}
 
     cout<<pq1.top(); // 2
+}
 
+
+void example_set(){
+    //Stores everything in sorted order and stores unique values only
+    set<int>st;
+    st.insert(1); //{1}
+    st.emplace(2); //{1, 2}
+    st.insert(2); //{1,2}
+    st.insert(4); //{1,2,4}
+    st.insert(3); //{1,2,3,4}
+
+    //Functionality of insert in vector can be used also, that only
+    //increases efficiency
+
+    //begin, end, rbegin, rend, size , empty, swap same as above
+
+    //{1,2,3,4,5}
+    auto it=st.find(3);
+
+    //{1,2,3,4,5}
+    auto it=st.find(5);
+
+    //{1,4,5}
+    st.erase(5); //erases 5 takes log time
+
+    int cnt=st.count(1);
+
+    auto it=st.find(3);
+    st.erase(it); //it takes constant time
 }
