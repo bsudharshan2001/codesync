@@ -278,6 +278,7 @@ void example_priorityQueue(){
 
 void example_set(){
     //Stores everything in sorted order and stores unique values only
+    //tree is maintained
     set<int>st;
     st.insert(1); //{1}
     st.emplace(2); //{1, 2}
@@ -291,16 +292,68 @@ void example_set(){
     //begin, end, rbegin, rend, size , empty, swap same as above
 
     //{1,2,3,4,5}
-    auto it=st.find(3);
+    auto it=st.find(3); //Returns an iterator which points to this 3
 
     //{1,2,3,4,5}
-    auto it=st.find(5);
+    auto it=st.find(6); //If element not in set -> always return st.end
 
     //{1,4,5}
     st.erase(5); //erases 5 takes log time
 
-    int cnt=st.count(1);
+    int cnt=st.count(1); //Unique so only 1 occurence
 
     auto it=st.find(3);
     st.erase(it); //it takes constant time
+
+    //{1,2,3,4,5}
+    auto it1=st.find(2);
+    auto it2=st.find(4);
+    st.erase(it1,it2); //after erase => {1,4,5} -> erase "from this" to "before this"
+
+    //lower_bound() and upper_bound() function works in the same way
+    //as vectors
+
+    auto it=st.lower_bound(2);
+
+    auto it=st.upper_bound(3);
 }
+
+
+void example_multiset(){
+
+    //Everything is same as set
+    //This stores duplicate elements as well
+
+    multiset<int>ms;
+    ms.insert(1); //{1}
+    ms.insert(1); //{1,1}
+    ms.insert(1); //{1,1,1}
+
+    ms.erase(1); // All 1's are erased
+
+    int cnt=ms.count(1);
+
+    //Only a single one erased
+    ms.erase(ms.find(1));
+
+    // ms.erase(ms.find(1),ms.find(1) + 2);
+
+    //Rest all functions same as above
+}
+
+void example_uset(){
+    //Unordered set - unique not sorted
+    //lower_bound() and upper_bound() does not work
+    //Rest all functions are same
+    //Does not store in any particular order
+    //It has better complexity than set in most cases
+    //except when collision happens
+
+    //Everything - O(1) --Worst case - O(n)
+}
+
+void example_map(){
+    map<int, int> mpp;
+    map<int, pair
+}
+
