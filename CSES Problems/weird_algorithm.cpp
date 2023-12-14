@@ -1,8 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+#define ll long long
+
 int main(){
-    int n;
+    ll n;
     cin>>n;
     cout<<n<<" ";
     while(n!=1){
@@ -17,3 +19,6 @@ int main(){
 }
 return 0;
 }
+
+// found the problem, when n is given out of int's range, output goes wrong
+// So increase the input range
