@@ -6,14 +6,20 @@ using namespace std;
 int main(){
     string str;
     cin>>str;
-    int c=1,l=0;
+    int c=1,l=-9999;
+    if(str.length()==1){
+        cout<<1;
+        return 0;}
     for(int i=0;i<str.length()-1;i++){
-        if(str[i]==str[i+1])
+        // cout<<"check";
+        if(str[i]==str[i+1]){
             c+=1;
-            cout<<c;
+            // cout<<c;
             if(c>l)
-                l=c;
-        else c=1;
+                l=c;}
+        else {c=1;
+        if(c>l)
+        l=c;}
     }
     cout<<l;
     return 0;
