@@ -445,8 +445,9 @@ void example_extra(){
         cout<<s<<endl;
     }while(next_permutation(s.begin(),s.end()));
     //Gives you all the permuatation in the strings
+    //To print all the permutations print from the first permutation
 
-    // int maxi=*max_element(a,a+n);
+    // int maxi=*max_element(a,a+n); //get the max element
 
 
 }
