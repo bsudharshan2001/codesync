@@ -3,13 +3,14 @@
 #include<string.h>
 
 //Defining function prototypes here
-void example_pairs();
-void example_vectors();
+// void example_pairs();
+// void example_vectors();
 
 using namespace std; // No need to write std::cout
 int main(){
     // example_pairs();
-    example_vectors();
+    // example_vectors();
+    example_map();
     return 0;
 } 
 
@@ -353,11 +354,13 @@ void example_uset(){
 }
 
 void example_map(){
+    //Store unique keys in sorted order like set DS ->(key,value) pair -> key can be any DS
+    // O(logn)
     map<int, int> mpp;
     map<int, pair<int, int>> mpp;
     map<pair<int,int>,int> mpp;
 
-    mpp[1]=2;
+    mpp[1]=2; // (key=1,value=2)
     // mpp.emplace({3,1});
     // mpp.insert({2,4});
 
@@ -375,7 +378,87 @@ void example_map(){
 
     cout<<mpp[1];
     cout<<mpp[5];
+    
+    auto it =mpp.find(3);
+    // cout<<*(it).second;
+
+    auto it=mpp.find(5);
+
+    auto it=mpp.lower_bound(2);
+
+    auto it=mpp.upper_bound(3);
+
+    //erase, swap, size, empty are same as above
+
 }
+
+void example_multimap(){
+    //Everything same as map, only it can store in multiple keys(duplicate keys)
+    // Only mpp[key] cannot be used here
+}
+
+void example_unorderedmap(){
+    //O(1)
+    //unique keys but not sorted
+    //same as set and unordered_set difference
+}
+
+//Has to return true or false
+
+bool comp(pair<int,int>p1, pair<int,int>p2){
+    if(p1.second<p2.second){
+        return true;
+    }
+    else if(p1.second==p2.second){
+        if(p1.first>p2.second)  return true;
+    }
+    return false;
+}
+
+void example_extra(){
+    // a->{1,5,3,2}
+    // sort(a,a+n);
+    // sort(v.begin(),v.end());
+
+    // sort(a+2,a+4); //Want just a small portion to be sorted
+
+    // sort(a,a+n, greater<int>); //Sorting them descending order
+
+    pair<int,int> a[]={{1,2},{2,1},{4,1}};
+
+    //sort it according to second element
+    //If second element is same, then sort
+    // It is according to first element but in descending order
+
+    // sort(a, a+n,comp);
+    //comp - self-written comparator - boolean function
+    //{4,1},{2,1},{1,2}
+
+    int num=7;
+    // int cnt=__builtin_popcount(); // Calculates the binary and returns the num of said bits
+
+    // long long num=165786578687;
+    // int cnt=__builtin_popcountll();
+
+    string s="123";
+    do{
+        cout<<s<<endl;
+    }while(next_permutation(s.begin(),s.end()));
+    //Gives you all the permuatation in the strings
+
+    // int maxi=*max_element(a,a+n);
+
+
+}
+
+
+
+
+
+
+
+
+
 
 
 //Comments
