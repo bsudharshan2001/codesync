@@ -36,4 +36,26 @@ using namespace std;
 //                     return retList
 
 //If array unsorted?
-//Use hash map
+//Use hash map - Solve it using a unordered map -> which maps unique keys to values
+// After mapping take the find the remaining using the compliment and search in the map
+
+int main(){
+    vector<int> nums= {3,2,4};
+    vector<int> indexes;
+    int target = 6;
+    
+    unordered_map<int,int> numMap;
+    for(int i=0;i<nums.size();i++){
+        int complement= target - nums[i];
+        if(numMap.find(complement)!=numMap.end()){
+            indexes.push_back(numMap[complement]);
+            indexes.push_back(i);
+            break;
+    }
+    numMap[nums[i]]=i;
+}
+for (auto it:indexes)
+    cout<< it<< " ";
+return 0;
+}
+
