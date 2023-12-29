@@ -1,6 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//Time Complexity
+// Best Case -> O(n^2)
+// Average Case -> O(n^2)
+// Worse Case -> O(n^2)
+
 int main(){
     int n,temp,min;
     cin>>n;

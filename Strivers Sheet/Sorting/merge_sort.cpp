@@ -1,6 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+//Time Complexity
+// Best Case -> O(nlogn)
+// Average Case -> O(nlogn)
+// Worse Case -> O(nlogn)
+
 void merge(int a[],int p,int q,int r){
 
     //For creation of two arrays L<- a[p..q] and M<- a[q+1...r]

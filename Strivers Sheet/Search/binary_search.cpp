@@ -2,6 +2,11 @@
 using namespace std;
 
 
+//Time Complexity
+// Best Case -> O(1)
+// Average Case -> O(logn)
+// Worse Case -> O(logn)
+
 //Iterative Method
 // int binarySearch(int a[],int val, int low, int high){
 //     while(low<=high){

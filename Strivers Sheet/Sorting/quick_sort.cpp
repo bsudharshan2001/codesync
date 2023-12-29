@@ -1,6 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//Time Complexity
+// Best Case -> O(nlogn)
+// Average Case -> O(nlogn)
+// Worse Case -> O(n^2)
+
+//Space Complexity -> O(logn)
 
 void swap(int *a, int *b){
     int t=*a;
