@@ -45,6 +45,53 @@ void postorderTraversal(struct Node* node){
 
 }
 
+int countNumNodes(struct Node *root){
+    if(root==NULL)
+        return 0;
+    else 1 + countNumNodes(root->left) + countNumNodes(root->right);
+}
+
+
+bool checkComplete(struct Node *root, int index, int numberNodes){
+
+    //Check if tree is empty
+    if(root==NULL)
+        return true;
+    
+    if(index>=numberNodes)
+        return false;
+
+    return (checkComplete(root->left,2*index+1,numberNodes) && checkComplete(root->right, 2*index+2, numberNodes));
+}
+
+bool checkHeightBalance(struct Node *root, int *height){
+
+    //check for emptiness
+    int leftHeight=0, rightHeight=0;
+
+    int l=0,r=0;
+
+    if(root==NULL){
+        *height=0;
+        return true;
+    }
+
+    l=checkHeightBalance(root->left, &leftHeight);
+    r=checkHeightBalance(root->right, &rightHeight);
+
+    if(leftHeight>rightHeight)
+        *height=leftHeight+1;
+    else  *height=rightHeight+1;
+
+    if(std::abs(leftHeight-rightHeight>=2))
+        return 0;
+    else return l && r;
+
+}
+
+
+
+
 int main(){
     struct Node* root = new Node(1);
     root->left=new Node(12);
@@ -60,6 +107,20 @@ int main(){
 
     cout << "\nPostorder traversal ";
     postorderTraversal(root);
+
+    // int node_count=countNumNodes(root);
+    // int index=0;
+
+    // if(checkComplete(root,index,node_count))
+    //     cout<<"Complete";
+    // else cout<<"Not Complete";
+
+    // int height=0;
+
+    // if (checkHeightBalance(root, &height))
+    //     cout << "The tree is balanced";
+    // else cout << "The tree is not balanced";
+
 
     return 0;
 }
