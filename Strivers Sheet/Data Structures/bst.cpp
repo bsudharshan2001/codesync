@@ -1,7 +1,21 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
+//Time Complexities
+//Search :
+//Best Case - O(logn)
+//Worst Case -O(n)
+// Avg Case -O(logn)
+//-------------
+//Search :
+//Best Case -O(logn)
+//Worst Case -O(n)
+// Avg Case -O(logn)
+//-------------
+//Search :
+//Best Case -O(logn)
+//Worst Case - O(n)
+// Avg Case -O(logn)
 struct Node{
     int data;
     struct Node *left, *right;
