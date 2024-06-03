@@ -10,4 +10,9 @@ Languages used: C++
 # String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/bsudharshan2001/codesync/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/bsudharshan2001/codesync/tree/master/0344-reverse-string) |
+# Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/bsudharshan2001/codesync/tree/master/0290-word-pattern) |
