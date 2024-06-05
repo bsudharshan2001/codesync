@@ -16,3 +16,11 @@ Languages used: C++
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/bsudharshan2001/codesync/tree/master/0290-word-pattern) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/0206-reverse-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/0206-reverse-linked-list) |
