@@ -12,10 +12,12 @@ Languages used: C++
 | ------- |
 | [0290-word-pattern](https://github.com/bsudharshan2001/codesync/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/bsudharshan2001/codesync/tree/master/0344-reverse-string) |
+| [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/bsudharshan2001/codesync/tree/master/0290-word-pattern) |
+| [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
 # Linked List
 |  |
 | ------- |
@@ -24,3 +26,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/0206-reverse-linked-list) |
+# Array
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
