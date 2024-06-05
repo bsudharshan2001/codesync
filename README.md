@@ -7,6 +7,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/bsudharshan2001/codesync/tree/master/0344-reverse-string) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Recursion
 |  |
 | ------- |
