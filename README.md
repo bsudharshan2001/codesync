@@ -20,6 +20,7 @@ Languages used: C++
 | ------- |
 | [0290-word-pattern](https://github.com/bsudharshan2001/codesync/tree/master/0290-word-pattern) |
 | [0648-replace-words](https://github.com/bsudharshan2001/codesync/tree/master/0648-replace-words) |
+| [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
 # Linked List
 |  |
@@ -34,8 +35,17 @@ Languages used: C++
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/bsudharshan2001/codesync/tree/master/0648-replace-words) |
+| [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
 # Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/bsudharshan2001/codesync/tree/master/0648-replace-words) |
+# Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
