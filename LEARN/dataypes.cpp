@@ -27,3 +27,5 @@ int main(){
     cout<<gg<<"\n";
     return 0;
 }
+
+// this code gives a outline of all the datatypes
