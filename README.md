@@ -7,6 +7,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/bsudharshan2001/codesync/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # String
 |  |
@@ -37,6 +38,7 @@ Languages used: C++
 | [0485-max-consecutive-ones](https://github.com/bsudharshan2001/codesync/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/bsudharshan2001/codesync/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
+| [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bsudharshan2001/codesync/tree/master/1421-find-numbers-with-even-number-of-digits) |
 # Trie
@@ -51,3 +53,4 @@ Languages used: C++
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
+| [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
