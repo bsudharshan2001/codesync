@@ -40,6 +40,7 @@ Languages used: C++
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/bsudharshan2001/codesync/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bsudharshan2001/codesync/tree/master/1421-find-numbers-with-even-number-of-digits) |
 # Trie
 |  |
@@ -54,3 +55,8 @@ Languages used: C++
 | ------- |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/bsudharshan2001/codesync/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/bsudharshan2001/codesync/tree/master/1137-height-checker) |
