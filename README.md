@@ -6,6 +6,7 @@ Languages used: C++
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bsudharshan2001/codesync/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/bsudharshan2001/codesync/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/bsudharshan2001/codesync/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
@@ -38,6 +39,7 @@ Languages used: C++
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bsudharshan2001/codesync/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/bsudharshan2001/codesync/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/bsudharshan2001/codesync/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
@@ -59,6 +61,7 @@ Languages used: C++
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bsudharshan2001/codesync/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/bsudharshan2001/codesync/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
