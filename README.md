@@ -50,6 +50,7 @@ Languages used: C++
 | [1168-duplicate-zeros](https://github.com/bsudharshan2001/codesync/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/bsudharshan2001/codesync/tree/master/1217-relative-sort-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bsudharshan2001/codesync/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/bsudharshan2001/codesync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/bsudharshan2001/codesync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Languages used: C++
 | [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/bsudharshan2001/codesync/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bsudharshan2001/codesync/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/bsudharshan2001/codesync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
