@@ -8,6 +8,7 @@ Languages used: C++
 | ------- |
 | [0075-sort-colors](https://github.com/bsudharshan2001/codesync/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/bsudharshan2001/codesync/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0633-sum-of-square-numbers) |
 | [0941-sort-array-by-parity](https://github.com/bsudharshan2001/codesync/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/bsudharshan2001/codesync/tree/master/1168-duplicate-zeros) |
@@ -79,3 +80,11 @@ Languages used: C++
 | [0982-minimum-increment-to-make-array-unique](https://github.com/bsudharshan2001/codesync/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/bsudharshan2001/codesync/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/bsudharshan2001/codesync/tree/master/1217-relative-sort-array) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0633-sum-of-square-numbers) |
