@@ -31,11 +31,13 @@ Languages used: C++
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/bsudharshan2001/codesync/tree/master/0206-reverse-linked-list) |
 # Array
 |  |
@@ -83,6 +85,7 @@ Languages used: C++
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
