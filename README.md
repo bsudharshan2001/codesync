@@ -9,6 +9,7 @@ Languages used: C++
 | [0075-sort-colors](https://github.com/bsudharshan2001/codesync/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/bsudharshan2001/codesync/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/bsudharshan2001/codesync/tree/master/0853-most-profit-assigning-work) |
 | [0941-sort-array-by-parity](https://github.com/bsudharshan2001/codesync/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/bsudharshan2001/codesync/tree/master/1168-duplicate-zeros) |
@@ -47,6 +48,7 @@ Languages used: C++
 | [0075-sort-colors](https://github.com/bsudharshan2001/codesync/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/bsudharshan2001/codesync/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/bsudharshan2001/codesync/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/bsudharshan2001/codesync/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/bsudharshan2001/codesync/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/bsudharshan2001/codesync/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -65,6 +67,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/bsudharshan2001/codesync/tree/master/0409-longest-palindrome) |
+| [0853-most-profit-assigning-work](https://github.com/bsudharshan2001/codesync/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/bsudharshan2001/codesync/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/bsudharshan2001/codesync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -72,6 +75,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bsudharshan2001/codesync/tree/master/0075-sort-colors) |
+| [0853-most-profit-assigning-work](https://github.com/bsudharshan2001/codesync/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/bsudharshan2001/codesync/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/bsudharshan2001/codesync/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -94,3 +98,4 @@ Languages used: C++
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/bsudharshan2001/codesync/tree/master/0853-most-profit-assigning-work) |
