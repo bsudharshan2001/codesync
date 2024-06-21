@@ -55,6 +55,7 @@ Languages used: C++
 | [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/bsudharshan2001/codesync/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/bsudharshan2001/codesync/tree/master/1138-grumpy-bookstore-owner) |
 | [1168-duplicate-zeros](https://github.com/bsudharshan2001/codesync/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/bsudharshan2001/codesync/tree/master/1217-relative-sort-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bsudharshan2001/codesync/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -104,3 +105,7 @@ Languages used: C++
 | [0853-most-profit-assigning-work](https://github.com/bsudharshan2001/codesync/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bsudharshan2001/codesync/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/bsudharshan2001/codesync/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/bsudharshan2001/codesync/tree/master/1138-grumpy-bookstore-owner) |
