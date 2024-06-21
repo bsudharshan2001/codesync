@@ -25,6 +25,7 @@ Languages used: C++
 # Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/bsudharshan2001/codesync/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/bsudharshan2001/codesync/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/bsudharshan2001/codesync/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/bsudharshan2001/codesync/tree/master/0648-replace-words) |
@@ -46,6 +47,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bsudharshan2001/codesync/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/bsudharshan2001/codesync/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/bsudharshan2001/codesync/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/bsudharshan2001/codesync/tree/master/0648-replace-words) |
 | [0853-most-profit-assigning-work](https://github.com/bsudharshan2001/codesync/tree/master/0853-most-profit-assigning-work) |
@@ -78,6 +80,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bsudharshan2001/codesync/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/bsudharshan2001/codesync/tree/master/0217-contains-duplicate) |
 | [0853-most-profit-assigning-work](https://github.com/bsudharshan2001/codesync/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/bsudharshan2001/codesync/tree/master/0941-sort-array-by-parity) |
