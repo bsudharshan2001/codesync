@@ -32,6 +32,7 @@ Languages used: C++
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/bsudharshan2001/codesync/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1370-count-number-of-nice-subarrays) |
 # Linked List
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Languages used: C++
 | [1138-grumpy-bookstore-owner](https://github.com/bsudharshan2001/codesync/tree/master/1138-grumpy-bookstore-owner) |
 | [1168-duplicate-zeros](https://github.com/bsudharshan2001/codesync/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/bsudharshan2001/codesync/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bsudharshan2001/codesync/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bsudharshan2001/codesync/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/bsudharshan2001/codesync/tree/master/1675-magnetic-force-between-two-balls) |
@@ -101,6 +103,7 @@ Languages used: C++
 | ------- |
 | [0002-add-two-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/bsudharshan2001/codesync/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1370-count-number-of-nice-subarrays) |
 # Binary Search
 |  |
 | ------- |
@@ -112,3 +115,4 @@ Languages used: C++
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/bsudharshan2001/codesync/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1370-count-number-of-nice-subarrays) |
