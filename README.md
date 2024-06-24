@@ -56,6 +56,7 @@ Languages used: C++
 | [0941-sort-array-by-parity](https://github.com/bsudharshan2001/codesync/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/bsudharshan2001/codesync/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/1019-squares-of-a-sorted-array) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bsudharshan2001/codesync/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/bsudharshan2001/codesync/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/bsudharshan2001/codesync/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/bsudharshan2001/codesync/tree/master/1138-grumpy-bookstore-owner) |
@@ -115,12 +116,14 @@ Languages used: C++
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bsudharshan2001/codesync/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/bsudharshan2001/codesync/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bsudharshan2001/codesync/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bsudharshan2001/codesync/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bsudharshan2001/codesync/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Heap (Priority Queue)
 |  |
@@ -134,3 +137,11 @@ Languages used: C++
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bsudharshan2001/codesync/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bsudharshan2001/codesync/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bsudharshan2001/codesync/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
