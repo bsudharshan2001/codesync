@@ -198,6 +198,7 @@ Languages used: C++
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
+| [1293-three-consecutive-odds](https://github.com/bsudharshan2001/codesync/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bsudharshan2001/codesync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
