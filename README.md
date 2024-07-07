@@ -221,6 +221,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
+| [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -237,4 +238,8 @@ Languages used: C++
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bsudharshan2001/codesync/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
