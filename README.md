@@ -225,6 +225,7 @@ Languages used: C++
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
 | [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2645-pass-the-pillow](https://github.com/bsudharshan2001/codesync/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Languages used: C++
 | [1803-average-waiting-time](https://github.com/bsudharshan2001/codesync/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bsudharshan2001/codesync/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/bsudharshan2001/codesync/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
