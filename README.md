@@ -241,12 +241,14 @@ Languages used: C++
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bsudharshan2001/codesync/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/bsudharshan2001/codesync/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/bsudharshan2001/codesync/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/bsudharshan2001/codesync/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
