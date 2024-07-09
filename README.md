@@ -259,4 +259,12 @@ Languages used: C++
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bsudharshan2001/codesync/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bsudharshan2001/codesync/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
