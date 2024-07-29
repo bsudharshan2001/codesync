@@ -203,6 +203,7 @@ Languages used: C++
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bsudharshan2001/codesync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/bsudharshan2001/codesync/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/bsudharshan2001/codesync/tree/master/1803-average-waiting-time) |
+| [1833-find-the-highest-altitude](https://github.com/bsudharshan2001/codesync/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2846-robot-collisions](https://github.com/bsudharshan2001/codesync/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -237,6 +238,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
+| [1833-find-the-highest-altitude](https://github.com/bsudharshan2001/codesync/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
