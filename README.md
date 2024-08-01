@@ -205,6 +205,7 @@ Languages used: C++
 | [1803-average-waiting-time](https://github.com/bsudharshan2001/codesync/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/bsudharshan2001/codesync/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2727-number-of-senior-citizens](https://github.com/bsudharshan2001/codesync/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/bsudharshan2001/codesync/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -278,6 +279,7 @@ Languages used: C++
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bsudharshan2001/codesync/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bsudharshan2001/codesync/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bsudharshan2001/codesync/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2727-number-of-senior-citizens](https://github.com/bsudharshan2001/codesync/tree/master/2727-number-of-senior-citizens) |
 ## Trie
 |  |
 | ------- |
