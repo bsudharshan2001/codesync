@@ -180,6 +180,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bsudharshan2001/codesync/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -303,8 +304,10 @@ Languages used: C++
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
