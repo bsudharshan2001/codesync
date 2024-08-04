@@ -251,6 +251,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -282,6 +283,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bsudharshan2001/codesync/tree/master/0014-longest-common-prefix) |
+| [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0726-number-of-atoms](https://github.com/bsudharshan2001/codesync/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bsudharshan2001/codesync/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bsudharshan2001/codesync/tree/master/1720-crawler-log-folder) |
