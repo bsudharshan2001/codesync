@@ -210,6 +210,7 @@ Languages used: C++
 | [1803-average-waiting-time](https://github.com/bsudharshan2001/codesync/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/bsudharshan2001/codesync/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/bsudharshan2001/codesync/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bsudharshan2001/codesync/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/bsudharshan2001/codesync/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/bsudharshan2001/codesync/tree/master/2846-robot-collisions) |
@@ -221,6 +222,7 @@ Languages used: C++
 | [0726-number-of-atoms](https://github.com/bsudharshan2001/codesync/tree/master/0726-number-of-atoms) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/bsudharshan2001/codesync/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +294,7 @@ Languages used: C++
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bsudharshan2001/codesync/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bsudharshan2001/codesync/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bsudharshan2001/codesync/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/bsudharshan2001/codesync/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/bsudharshan2001/codesync/tree/master/2727-number-of-senior-citizens) |
 ## Trie
 |  |
@@ -319,4 +322,8 @@ Languages used: C++
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/bsudharshan2001/codesync/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
