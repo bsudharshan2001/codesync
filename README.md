@@ -284,6 +284,7 @@ Languages used: C++
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/bsudharshan2001/codesync/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -326,4 +327,12 @@ Languages used: C++
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsudharshan2001/codesync/tree/master/2163-kth-distinct-string-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/bsudharshan2001/codesync/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/bsudharshan2001/codesync/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
