@@ -3,7 +3,7 @@ class Solution:
         lst=list(word)
         lst.sort(reverse=True)
         x=Counter(lst)
-        print(x)
+        # print(x)
         cost=0
         counter=1
         multiplier=1
@@ -13,7 +13,7 @@ class Solution:
                 multiplier+=1
                 counter=1
             cost+=multiplier*j
-            print(f"Count = {counter} ---- E = {i} * {j} - > Cost = {cost} --- Mul = {multiplier}\n")
+            # print(f"Count = {counter} ---- E = {i} * {j} - > Cost = {cost} --- Mul = {multiplier}\n")
             counter+=1
             
 
