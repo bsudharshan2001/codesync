@@ -245,6 +245,7 @@ Languages used: C++
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
 | [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -283,6 +284,7 @@ Languages used: C++
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -294,6 +296,7 @@ Languages used: C++
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bsudharshan2001/codesync/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/bsudharshan2001/codesync/tree/master/0058-length-of-last-word) |
+| [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0726-number-of-atoms](https://github.com/bsudharshan2001/codesync/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bsudharshan2001/codesync/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
