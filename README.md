@@ -198,6 +198,7 @@ Languages used: C++
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
@@ -350,4 +351,8 @@ Languages used: C++
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/bsudharshan2001/codesync/tree/master/0921-spiral-matrix-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
