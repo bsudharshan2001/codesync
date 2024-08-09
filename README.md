@@ -202,6 +202,7 @@ Languages used: C++
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
+| [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0921-spiral-matrix-iii](https://github.com/bsudharshan2001/codesync/tree/master/0921-spiral-matrix-iii) |
 | [1293-three-consecutive-odds](https://github.com/bsudharshan2001/codesync/tree/master/1293-three-consecutive-odds) |
@@ -222,6 +223,7 @@ Languages used: C++
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
 | [0726-number-of-atoms](https://github.com/bsudharshan2001/codesync/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsudharshan2001/codesync/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -249,6 +251,7 @@ Languages used: C++
 | ------- |
 | [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
+| [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/bsudharshan2001/codesync/tree/master/2645-pass-the-pillow) |
@@ -350,6 +353,7 @@ Languages used: C++
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/bsudharshan2001/codesync/tree/master/0921-spiral-matrix-iii) |
 ## Dynamic Programming
 |  |
