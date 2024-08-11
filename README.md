@@ -183,12 +183,14 @@ Languages used: C++
 | [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bsudharshan2001/codesync/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bsudharshan2001/codesync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bsudharshan2001/codesync/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bsudharshan2001/codesync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Graph
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Languages used: C++
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bsudharshan2001/codesync/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bsudharshan2001/codesync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bsudharshan2001/codesync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/bsudharshan2001/codesync/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/bsudharshan2001/codesync/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/bsudharshan2001/codesync/tree/master/1833-find-the-highest-altitude) |
@@ -360,6 +363,7 @@ Languages used: C++
 | [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/bsudharshan2001/codesync/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bsudharshan2001/codesync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -368,4 +372,8 @@ Languages used: C++
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bsudharshan2001/codesync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
