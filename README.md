@@ -338,11 +338,13 @@ Languages used: C++
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
 ## Counting
 |  |
@@ -352,10 +354,12 @@ Languages used: C++
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/bsudharshan2001/codesync/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/bsudharshan2001/codesync/tree/master/0969-number-of-recent-calls) |
 ## Matrix
 |  |
@@ -376,4 +380,12 @@ Languages used: C++
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bsudharshan2001/codesync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
