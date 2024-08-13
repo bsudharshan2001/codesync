@@ -308,6 +308,7 @@ Languages used: C++
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/bsudharshan2001/codesync/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/bsudharshan2001/codesync/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/bsudharshan2001/codesync/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
