@@ -202,6 +202,7 @@ Languages used: C++
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/bsudharshan2001/codesync/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -388,4 +389,8 @@ Languages used: C++
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/bsudharshan2001/codesync/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
