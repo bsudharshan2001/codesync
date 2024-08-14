@@ -207,6 +207,7 @@ Languages used: C++
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bsudharshan2001/codesync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0921-spiral-matrix-iii](https://github.com/bsudharshan2001/codesync/tree/master/0921-spiral-matrix-iii) |
@@ -247,6 +248,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bsudharshan2001/codesync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/bsudharshan2001/codesync/tree/master/0726-number-of-atoms) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -274,11 +276,13 @@ Languages used: C++
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bsudharshan2001/codesync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bsudharshan2001/codesync/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/bsudharshan2001/codesync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bsudharshan2001/codesync/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
 |  |
