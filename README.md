@@ -207,6 +207,7 @@ Languages used: C++
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
+| [0624-maximum-distance-in-arrays](https://github.com/bsudharshan2001/codesync/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bsudharshan2001/codesync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
@@ -241,6 +242,7 @@ Languages used: C++
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/bsudharshan2001/codesync/tree/master/0624-maximum-distance-in-arrays) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/bsudharshan2001/codesync/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bsudharshan2001/codesync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
