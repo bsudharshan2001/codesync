@@ -202,6 +202,7 @@ Languages used: C++
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bsudharshan2001/codesync/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/bsudharshan2001/codesync/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
@@ -243,6 +244,7 @@ Languages used: C++
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bsudharshan2001/codesync/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/bsudharshan2001/codesync/tree/master/0624-maximum-distance-in-arrays) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/bsudharshan2001/codesync/tree/master/0890-lemonade-change) |
@@ -279,6 +281,7 @@ Languages used: C++
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bsudharshan2001/codesync/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
