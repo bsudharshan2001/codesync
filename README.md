@@ -269,6 +269,7 @@ Languages used: C++
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
+| [0650-2-keys-keyboard](https://github.com/bsudharshan2001/codesync/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -388,6 +389,7 @@ Languages used: C++
 | ------- |
 | [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/bsudharshan2001/codesync/tree/master/0650-2-keys-keyboard) |
 ## Union Find
 |  |
 | ------- |
