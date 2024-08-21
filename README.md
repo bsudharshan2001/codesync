@@ -333,6 +333,7 @@ Languages used: C++
 | [0058-length-of-last-word](https://github.com/bsudharshan2001/codesync/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
+| [0664-strange-printer](https://github.com/bsudharshan2001/codesync/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/bsudharshan2001/codesync/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bsudharshan2001/codesync/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bsudharshan2001/codesync/tree/master/1720-crawler-log-folder) |
@@ -396,6 +397,7 @@ Languages used: C++
 | [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/bsudharshan2001/codesync/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/bsudharshan2001/codesync/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/bsudharshan2001/codesync/tree/master/1240-stone-game-ii) |
 ## Union Find
 |  |
