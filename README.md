@@ -277,6 +277,7 @@ Languages used: C++
 | [1240-stone-game-ii](https://github.com/bsudharshan2001/codesync/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2556-convert-the-temperature](https://github.com/bsudharshan2001/codesync/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/bsudharshan2001/codesync/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/bsudharshan2001/codesync/tree/master/2812-find-the-maximum-achievable-number) |
 ## Prefix Sum
