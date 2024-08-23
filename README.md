@@ -229,6 +229,7 @@ Languages used: C++
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bsudharshan2001/codesync/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/bsudharshan2001/codesync/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/bsudharshan2001/codesync/tree/master/2846-robot-collisions) |
+| [3194-find-words-containing-character](https://github.com/bsudharshan2001/codesync/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -343,6 +344,7 @@ Languages used: C++
 | [1818-maximum-score-from-removing-substrings](https://github.com/bsudharshan2001/codesync/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsudharshan2001/codesync/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/bsudharshan2001/codesync/tree/master/2727-number-of-senior-citizens) |
+| [3194-find-words-containing-character](https://github.com/bsudharshan2001/codesync/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/bsudharshan2001/codesync/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
