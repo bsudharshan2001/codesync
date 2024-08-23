@@ -433,4 +433,8 @@ Languages used: C++
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/bsudharshan2001/codesync/tree/master/0476-number-complement) |
+## Database
+|  |
+| ------- |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bsudharshan2001/codesync/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
