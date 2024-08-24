@@ -5,4 +5,6 @@ class Solution:
             nums.append(nums[i])
         
         return nums
+
+        # return nums*2
         
