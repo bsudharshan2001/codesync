@@ -241,6 +241,7 @@ Languages used: C++
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
 | [0726-number-of-atoms](https://github.com/bsudharshan2001/codesync/tree/master/0726-number-of-atoms) |
+| [0782-jewels-and-stones](https://github.com/bsudharshan2001/codesync/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/bsudharshan2001/codesync/tree/master/0876-hand-of-straights) |
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
@@ -347,6 +348,7 @@ Languages used: C++
 | [0592-fraction-addition-and-subtraction](https://github.com/bsudharshan2001/codesync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/bsudharshan2001/codesync/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/bsudharshan2001/codesync/tree/master/0726-number-of-atoms) |
+| [0782-jewels-and-stones](https://github.com/bsudharshan2001/codesync/tree/master/0782-jewels-and-stones) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bsudharshan2001/codesync/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bsudharshan2001/codesync/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bsudharshan2001/codesync/tree/master/1818-maximum-score-from-removing-substrings) |
