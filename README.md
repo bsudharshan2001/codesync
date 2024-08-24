@@ -218,6 +218,7 @@ Languages used: C++
 | [1240-stone-game-ii](https://github.com/bsudharshan2001/codesync/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/bsudharshan2001/codesync/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1580-shuffle-the-array](https://github.com/bsudharshan2001/codesync/tree/master/1580-shuffle-the-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bsudharshan2001/codesync/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bsudharshan2001/codesync/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bsudharshan2001/codesync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
