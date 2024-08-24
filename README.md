@@ -203,6 +203,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bsudharshan2001/codesync/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/bsudharshan2001/codesync/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/bsudharshan2001/codesync/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
@@ -297,6 +298,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bsudharshan2001/codesync/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/bsudharshan2001/codesync/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/bsudharshan2001/codesync/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
