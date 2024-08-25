@@ -179,6 +179,7 @@ Languages used: C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
@@ -188,6 +189,7 @@ Languages used: C++
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bsudharshan2001/codesync/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -381,6 +383,7 @@ Languages used: C++
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -388,6 +391,7 @@ Languages used: C++
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
