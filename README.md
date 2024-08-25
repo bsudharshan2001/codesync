@@ -277,6 +277,7 @@ Languages used: C++
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bsudharshan2001/codesync/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/bsudharshan2001/codesync/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/bsudharshan2001/codesync/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
@@ -323,6 +324,7 @@ Languages used: C++
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bsudharshan2001/codesync/tree/master/0043-multiply-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bsudharshan2001/codesync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/bsudharshan2001/codesync/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
@@ -348,6 +350,7 @@ Languages used: C++
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/bsudharshan2001/codesync/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/bsudharshan2001/codesync/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/bsudharshan2001/codesync/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/bsudharshan2001/codesync/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
