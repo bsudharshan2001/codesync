@@ -305,6 +305,7 @@ Languages used: C++
 | ------- |
 | [0011-container-with-most-water](https://github.com/bsudharshan2001/codesync/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/bsudharshan2001/codesync/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/bsudharshan2001/codesync/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
@@ -351,6 +352,7 @@ Languages used: C++
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/bsudharshan2001/codesync/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/bsudharshan2001/codesync/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/bsudharshan2001/codesync/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/bsudharshan2001/codesync/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
@@ -465,4 +467,8 @@ Languages used: C++
 |  |
 | ------- |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bsudharshan2001/codesync/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
