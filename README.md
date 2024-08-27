@@ -198,6 +198,7 @@ Languages used: C++
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/bsudharshan2001/codesync/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bsudharshan2001/codesync/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -222,6 +223,7 @@ Languages used: C++
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/bsudharshan2001/codesync/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/bsudharshan2001/codesync/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/bsudharshan2001/codesync/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bsudharshan2001/codesync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/bsudharshan2001/codesync/tree/master/1580-shuffle-the-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/bsudharshan2001/codesync/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -451,6 +453,7 @@ Languages used: C++
 | ------- |
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/bsudharshan2001/codesync/tree/master/1325-path-with-maximum-probability) |
 ## Backtracking
 |  |
 | ------- |
@@ -471,4 +474,8 @@ Languages used: C++
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/bsudharshan2001/codesync/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
