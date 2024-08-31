@@ -202,6 +202,7 @@ Languages used: C++
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/bsudharshan2001/codesync/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bsudharshan2001/codesync/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2803-modify-graph-edge-weights](https://github.com/bsudharshan2001/codesync/tree/master/2803-modify-graph-edge-weights) |
 ## Topological Sort
 |  |
 | ------- |
@@ -461,6 +462,7 @@ Languages used: C++
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/bsudharshan2001/codesync/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/bsudharshan2001/codesync/tree/master/2803-modify-graph-edge-weights) |
 ## Backtracking
 |  |
 | ------- |
@@ -485,4 +487,5 @@ Languages used: C++
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/bsudharshan2001/codesync/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/bsudharshan2001/codesync/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
