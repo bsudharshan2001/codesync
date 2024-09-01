@@ -239,6 +239,7 @@ Languages used: C++
 | [2035-count-sub-islands](https://github.com/bsudharshan2001/codesync/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/bsudharshan2001/codesync/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bsudharshan2001/codesync/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/bsudharshan2001/codesync/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsudharshan2001/codesync/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bsudharshan2001/codesync/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/bsudharshan2001/codesync/tree/master/2727-number-of-senior-citizens) |
@@ -341,6 +342,7 @@ Languages used: C++
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/bsudharshan2001/codesync/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bsudharshan2001/codesync/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/bsudharshan2001/codesync/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bsudharshan2001/codesync/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/bsudharshan2001/codesync/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/bsudharshan2001/codesync/tree/master/2846-robot-collisions) |
@@ -435,6 +437,7 @@ Languages used: C++
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bsudharshan2001/codesync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/bsudharshan2001/codesync/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/bsudharshan2001/codesync/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
