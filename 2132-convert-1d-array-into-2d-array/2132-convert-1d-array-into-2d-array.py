@@ -6,12 +6,11 @@ class Solution:
         res = []
         i=0
         temp=[]
-        while(i<len(original)):
+        for i in range(len(original)):
             temp.append(original[i])
             if((i+1)%n==0):
                 res.append(temp)
                 temp=[]
-            i+=1
         return res
 
         
