@@ -225,6 +225,7 @@ Languages used: C++
 | [0890-lemonade-change](https://github.com/bsudharshan2001/codesync/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/bsudharshan2001/codesync/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/bsudharshan2001/codesync/tree/master/0921-spiral-matrix-iii) |
+| [0978-valid-mountain-array](https://github.com/bsudharshan2001/codesync/tree/master/0978-valid-mountain-array) |
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/bsudharshan2001/codesync/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/bsudharshan2001/codesync/tree/master/1293-three-consecutive-odds) |
