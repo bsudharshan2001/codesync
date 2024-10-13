@@ -6,4 +6,4 @@ class Solution:
                     continue
                 elif(arr[i]==2*arr[j]):
                     return True
-        
+        return False
