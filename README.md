@@ -312,6 +312,7 @@ Languages used: C++
 | [0650-2-keys-keyboard](https://github.com/bsudharshan2001/codesync/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/bsudharshan2001/codesync/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/bsudharshan2001/codesync/tree/master/1240-stone-game-ii) |
+| [1585-the-kth-factor-of-n](https://github.com/bsudharshan2001/codesync/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/bsudharshan2001/codesync/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bsudharshan2001/codesync/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2556-convert-the-temperature](https://github.com/bsudharshan2001/codesync/tree/master/2556-convert-the-temperature) |
@@ -520,4 +521,8 @@ Languages used: C++
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/bsudharshan2001/codesync/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/bsudharshan2001/codesync/tree/master/2803-modify-graph-edge-weights) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/bsudharshan2001/codesync/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
