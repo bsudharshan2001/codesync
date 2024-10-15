@@ -211,6 +211,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bsudharshan2001/codesync/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bsudharshan2001/codesync/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/bsudharshan2001/codesync/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
@@ -332,6 +333,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bsudharshan2001/codesync/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bsudharshan2001/codesync/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bsudharshan2001/codesync/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/bsudharshan2001/codesync/tree/master/0125-valid-palindrome) |
