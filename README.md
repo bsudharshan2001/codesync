@@ -248,6 +248,7 @@ Languages used: C++
 | [2058-concatenation-of-array](https://github.com/bsudharshan2001/codesync/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bsudharshan2001/codesync/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsudharshan2001/codesync/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bsudharshan2001/codesync/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bsudharshan2001/codesync/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/bsudharshan2001/codesync/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bsudharshan2001/codesync/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -505,6 +506,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/bsudharshan2001/codesync/tree/master/0040-combination-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bsudharshan2001/codesync/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Game Theory
 |  |
 | ------- |
@@ -513,6 +515,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/bsudharshan2001/codesync/tree/master/0476-number-complement) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bsudharshan2001/codesync/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
 |  |
 | ------- |
@@ -530,4 +533,8 @@ Languages used: C++
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/bsudharshan2001/codesync/tree/master/1585-the-kth-factor-of-n) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bsudharshan2001/codesync/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
