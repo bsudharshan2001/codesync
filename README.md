@@ -306,6 +306,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bsudharshan2001/codesync/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/bsudharshan2001/codesync/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/bsudharshan2001/codesync/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/bsudharshan2001/codesync/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
@@ -363,6 +364,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bsudharshan2001/codesync/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/bsudharshan2001/codesync/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bsudharshan2001/codesync/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/bsudharshan2001/codesync/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/bsudharshan2001/codesync/tree/master/0921-spiral-matrix-iii) |
@@ -395,6 +397,7 @@ Languages used: C++
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/bsudharshan2001/codesync/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/bsudharshan2001/codesync/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/bsudharshan2001/codesync/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/bsudharshan2001/codesync/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
@@ -514,6 +517,7 @@ Languages used: C++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bsudharshan2001/codesync/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/bsudharshan2001/codesync/tree/master/0476-number-complement) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bsudharshan2001/codesync/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
