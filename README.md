@@ -359,6 +359,7 @@ Languages used: C++
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/bsudharshan2001/codesync/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bsudharshan2001/codesync/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bsudharshan2001/codesync/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
