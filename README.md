@@ -179,6 +179,7 @@ Languages used: C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
@@ -421,6 +422,7 @@ Languages used: C++
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/bsudharshan2001/codesync/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -436,6 +438,7 @@ Languages used: C++
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
@@ -445,6 +448,7 @@ Languages used: C++
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
