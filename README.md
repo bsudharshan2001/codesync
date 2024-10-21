@@ -181,6 +181,7 @@ Languages used: C++
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/bsudharshan2001/codesync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -193,6 +194,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/bsudharshan2001/codesync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bsudharshan2001/codesync/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -441,6 +443,7 @@ Languages used: C++
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/bsudharshan2001/codesync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -451,6 +454,7 @@ Languages used: C++
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/bsudharshan2001/codesync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
