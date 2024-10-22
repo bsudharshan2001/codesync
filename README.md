@@ -219,6 +219,7 @@ Languages used: C++
 | [0040-combination-sum-ii](https://github.com/bsudharshan2001/codesync/tree/master/0040-combination-sum-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bsudharshan2001/codesync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bsudharshan2001/codesync/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
@@ -490,6 +491,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bsudharshan2001/codesync/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/bsudharshan2001/codesync/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/bsudharshan2001/codesync/tree/master/0664-strange-printer) |
