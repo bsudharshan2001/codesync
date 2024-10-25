@@ -533,6 +533,7 @@ Languages used: C++
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bsudharshan2001/codesync/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/bsudharshan2001/codesync/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/bsudharshan2001/codesync/tree/master/0476-number-complement) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bsudharshan2001/codesync/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
@@ -560,4 +561,5 @@ Languages used: C++
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bsudharshan2001/codesync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/bsudharshan2001/codesync/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
