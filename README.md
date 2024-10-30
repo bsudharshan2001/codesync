@@ -183,6 +183,7 @@ Languages used: C++
 | [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bsudharshan2001/codesync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/bsudharshan2001/codesync/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
@@ -196,6 +197,7 @@ Languages used: C++
 | [0100-same-tree](https://github.com/bsudharshan2001/codesync/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bsudharshan2001/codesync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/bsudharshan2001/codesync/tree/master/0112-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/bsudharshan2001/codesync/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bsudharshan2001/codesync/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/bsudharshan2001/codesync/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -448,6 +450,7 @@ Languages used: C++
 | [0101-symmetric-tree](https://github.com/bsudharshan2001/codesync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bsudharshan2001/codesync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/bsudharshan2001/codesync/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -460,6 +463,7 @@ Languages used: C++
 | [0101-symmetric-tree](https://github.com/bsudharshan2001/codesync/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bsudharshan2001/codesync/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bsudharshan2001/codesync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/bsudharshan2001/codesync/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bsudharshan2001/codesync/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsudharshan2001/codesync/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/bsudharshan2001/codesync/tree/master/0904-leaf-similar-trees) |
