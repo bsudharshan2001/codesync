@@ -314,6 +314,7 @@ Languages used: C++
 | ------- |
 | [0043-multiply-strings](https://github.com/bsudharshan2001/codesync/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/bsudharshan2001/codesync/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/bsudharshan2001/codesync/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/bsudharshan2001/codesync/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/bsudharshan2001/codesync/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
@@ -407,6 +408,7 @@ Languages used: C++
 | [0058-length-of-last-word](https://github.com/bsudharshan2001/codesync/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bsudharshan2001/codesync/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/bsudharshan2001/codesync/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/bsudharshan2001/codesync/tree/master/0171-excel-sheet-column-number) |
 | [0273-integer-to-english-words](https://github.com/bsudharshan2001/codesync/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/bsudharshan2001/codesync/tree/master/0564-find-the-closest-palindrome) |
