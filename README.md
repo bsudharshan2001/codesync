@@ -223,6 +223,7 @@ Languages used: C++
 | [0118-pascals-triangle](https://github.com/bsudharshan2001/codesync/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bsudharshan2001/codesync/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/bsudharshan2001/codesync/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/bsudharshan2001/codesync/tree/master/0605-can-place-flowers) |
@@ -267,6 +268,7 @@ Languages used: C++
 | ------- |
 | [0202-happy-number](https://github.com/bsudharshan2001/codesync/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/bsudharshan2001/codesync/tree/master/0264-ugly-number-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/bsudharshan2001/codesync/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bsudharshan2001/codesync/tree/master/0523-continuous-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bsudharshan2001/codesync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -297,6 +299,7 @@ Languages used: C++
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/bsudharshan2001/codesync/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bsudharshan2001/codesync/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bsudharshan2001/codesync/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -350,6 +353,7 @@ Languages used: C++
 | [0202-happy-number](https://github.com/bsudharshan2001/codesync/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/bsudharshan2001/codesync/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bsudharshan2001/codesync/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/bsudharshan2001/codesync/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bsudharshan2001/codesync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bsudharshan2001/codesync/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -358,6 +362,7 @@ Languages used: C++
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/bsudharshan2001/codesync/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bsudharshan2001/codesync/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bsudharshan2001/codesync/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bsudharshan2001/codesync/tree/master/1468-check-if-n-and-its-double-exist) |
